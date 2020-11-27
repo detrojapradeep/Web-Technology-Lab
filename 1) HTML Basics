@@ -1,0 +1,26 @@
+Full form of HTMl is HyperText Markup Language. This is the most commonly used language and is used to write web pages for the world wide web.
+
+Characterstics of HTML -->
+----------------------
+
+1) It is easy to understand and modify as it does not require any programming language.
+
+2) It provides flexible way to design web pages using text.
+
+3) Links can be added to the web pages so as to help the reader to other web pages.
+
+4) Graphics, videos, sounds etc. can be added to the web page which gives an attractive look to the document.
+
+5) HTML Document can be displayed on any platform such as windows, linux, mac etc. It is a platform independent language.
+
+6) It is not case sensitive.
+
+7) It offers compatibility with all web browsers.
+
+Definition of HTML Tags --> 
+-----------------------
+
+The HTML tags are container for all the HTML elements so whatever we write in the hTML document they should be enclosed within tags.
+
+
+<!DOCTYPE html>  = This is not a HTML tag, rather it is used to tell the browser what kind of doc to expect, this is for HTML5
