@@ -1,5 +1,10 @@
-####### Run in Visual Code #########
-
-
-<h1>FIRST WEBPAGE</h1>
-<p>This is the first webpage by Detroja Pradeep Kumar</p>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>First WebPage</title>
+    </head>
+    <body>
+        <h1>My Name is Detroja Pradeep</h1>
+        <p>And This is my WebPage!!!</p>
+    </body>
+</html>
