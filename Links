@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+</head>
+<body>
+    <h1 id="top">This is the TOP of the WebPage!</h1>
+    <a href="about.html" target="_blank">About</a>
+    <br>
+    
+    <a href="https://github.com/detrojapradeep" target="_blank"><img src="/images/github.png" alt="Github Logo"></a>
+    <h2>Click on the cat to visit my Github Profile</h2>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <h1>Line Breaks</h1>
+    <a href="#top">Back to Top</a>
+</body>
+</html>
