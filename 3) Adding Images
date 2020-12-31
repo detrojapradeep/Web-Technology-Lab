@@ -5,6 +5,13 @@
     </head>
     <body>
         <h1>Udemy Logo!!</h1>
-        <img src="./udemy.png" alt="Udemy">
+        <img src="/images/Jethalal2.jpg" width="200" alt="Udemy">
+
+        <br>   
+        <br>
+        <br>
+        
+        <h1>Jethalal Smiling</h1>
+        <img src="/images/udemy.png" width ="200" alt="Jethalal">
     </body>
 </html>
