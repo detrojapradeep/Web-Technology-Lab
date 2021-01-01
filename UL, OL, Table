@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+</head>
+<body>
+    <ul>
+        <li>Pradeep Kumar</li>
+        <li>Naveen Kumar</li>
+        <li>Akshat Jain</li>
+    </ul>
+    <br>
+    <ol>
+        <li>Pradeep Kumar</li>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>MACHINE LEARNING</li>
+        </ul>
+        <li>Naveen Kumar</li>
+        <ul>
+            <li>RPA</li>
+            <li>3D PRINTING</li>
+        </ul>
+    </ol>
+    <br>
+    <table>
+        <tr>
+            <th>NAME</th>
+            <th>SKILL</th>
+        </tr>
+        <tr>
+            <td>Pradeep</td>
+            <td>Web, ML</td>
+        </tr>
+        <tr>
+            <td>Naveen</td>
+            <td>RPA, 3D</td>
+        </tr>
+    </table>
+</body>
+</html>
