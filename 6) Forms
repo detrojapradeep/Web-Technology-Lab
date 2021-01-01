@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="">
+        <!-- Form attributes and labels -->
+        <label for="name">First name</label>
+        <input type="text" id="name"><br>
+        <label for="pass">Password</label>
+        <input type="password" id="pass" placeholder="password"><br>
+        <label for="mail">Email</label>
+        <input type="email" id="mail" value="@gmail.com"><br>
+        <p>Enter Feedback</p>
+        <textarea name="" id="" cols="20" rows="10"></textarea>
+        <br>
+
+        <!-- Radio Buttons -->
+        <p>Select your favourite coding language</p>
+        <input type="radio" name="Fav" value="java" id="">Java
+        <input type="radio" name="Fav" value="CPP" id="">CPP
+        <input type="radio" name="Fav" value="Python" id="">Python
+        <br>
+
+        <!-- Checkbox attribute -->
+        <p>Check all your favourite languages</p>
+        <input type="checkbox" checked name="CHECK" value="java" id="">Java
+        <input type="checkbox" name="CHECK" value="CPP" id="">CPP
+        <input type="checkbox" name="CHECK" value="Python" id="">Pyton        
+        
+        <br>
+
+        <!-- DropDown / Select attribute -->
+        <p>Select from the DropDown</p>
+        <select name="SELECT" id="">
+            <option value="java">Java</option>
+            <option value="CPP">CPP</option>
+            <option value="Python">Python</option>
+        </select>
+        <br><br>
+        <input type="submit">
+    </form>
+</body>
+</html>
