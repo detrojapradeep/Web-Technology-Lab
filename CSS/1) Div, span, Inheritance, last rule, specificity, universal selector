@@ -1,0 +1,36 @@
+/* divs and span are used for grouping itslef */
+
+.red {
+  color: red;
+}
+.green {
+  color: green;
+}
+
+/* spans are used when we want to style something in the line itself */
+/* we could also use div here, but it'll put the style in next line */
+span {
+  color: blue;
+}
+
+--> Inheritance- CSS property passes on from the parent to the child, unless overwritten in any stage
+** there are some properites which are not inherited, eg- border property
+
+--> Last rule- if your'e adding more than one CSS style to a element, the last one is gonna implement
+eg.
+p{
+    color: blue;
+}
+p{
+    /* red will be displayed */
+    color: red; 
+}
+
+--> Specificity- if there are two or more conflicting css rules, then the one with more specificity will win.
+--> Specificity heirarchy-
+1)inline styles
+2)ID
+3)Class
+4)elements
+
+--> Universal selectors (*) - this is used to select everything, but it has the least specificity
