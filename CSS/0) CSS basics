@@ -1,0 +1,43 @@
+---> types of css:
+inline (most powerful)
+internal
+external
+
+/* Element selectors(or type selectors) */
+body {
+  color: red;
+}
+
+/* Group Selectors in CSS */
+h1,
+h2 {
+  color: blue;
+}
+
+/* ID selectors */
+#heading {
+  color: brown;
+  background: yellow;
+}
+
+#subheading {
+  color: black;
+  background: yellow;
+}
+
+/* Class Selectors */
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+#title {
+  font-size: 40px;
+}
